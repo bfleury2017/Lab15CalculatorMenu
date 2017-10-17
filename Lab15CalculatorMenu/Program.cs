@@ -76,7 +76,7 @@ namespace Lab14GradeswithSwitch
                     Console.WriteLine($"{number1} / {number2} = {Divide(number1, number2)}");
                     break;
                 case 5:
-                    Console.WriteLine($"{number1} + {number2} = {Modulus(number1, number2)}");
+                    Console.WriteLine($"{number1} % {number2} = {Modulus(number1, number2)}");
                     break;
                 default:
                     break;
